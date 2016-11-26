@@ -1,0 +1,19 @@
+#bWebnav {
+
+}
+
+#discoverus {
+  height: 100vh;
+  background: white;
+  /*center text*/
+  text-align: center;
+  display: flex;
+  align-items: center;
+  /*center text end*/
+  /*parallax*/
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*end of parallax*/
+}
